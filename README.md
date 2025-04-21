@@ -8,7 +8,7 @@ Video de programa
 Link: https://youtu.be/ymfzZIAyWUo
 
 - INSTRUCCIONES DE INSTALACION Y EJECUCION
-  1) git clone https://github.com/Gerson182/dev-project.git
+  1) git clone https://github.com/Gersonson182/dev-project.git
      
      cd dev-project
      
