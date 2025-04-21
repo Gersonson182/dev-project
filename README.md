@@ -9,13 +9,19 @@ Link: https://youtu.be/ymfzZIAyWUo
 
 - INSTRUCCIONES DE INSTALACION Y EJECUCION
   1) git clone https://github.com/tuusuario/dev-project.git
+     
      cd dev-project
-  2) Instalar Dependencia: NPM INSTALL
-  3) Crear archivo .ENV
+     
+  3) Instalar Dependencia: NPM INSTALL
+  4) Crear archivo .ENV
+     
      VITE_API_BASE_URL:https://apipruebas.rbu.cl/api
+     
      VITE_API_TOKEN: (La que se dio en el examen)
-  4) Ejecutar en Modo Desarrollo: NPM RUN DEV
-  5) Acceder al navegador: http://localhost:5173
+     
+  6) Ejecutar en Modo Desarrollo: NPM RUN DEV
+     
+  8) Acceder al navegador: http://localhost:5173
  
  - TECNOLOGIAS UTILIZADAS
    React + TypeScript
