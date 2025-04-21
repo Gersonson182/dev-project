@@ -24,6 +24,7 @@ Link: https://youtu.be/ymfzZIAyWUo
   8) Acceder al navegador: http://localhost:5173
  
  - TECNOLOGIAS UTILIZADAS
+
    React + TypeScript
    REACT-ROUTER
    VITE
